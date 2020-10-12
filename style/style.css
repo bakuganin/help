@@ -1,0 +1,160 @@
+
+header.photoHeader {
+    background: url("../src/header.jpg") repeat-x top center;
+    position: relative;
+    background-size: 1600px;
+    min-height: 190px;
+
+}
+
+
+header.photoHeader .button{
+    position: absolute;
+    right: 100px;
+    top: 30px;
+
+
+}
+
+
+header.photoHeader .button button{
+        width:  120px;
+        border: none;   
+        margin:  6px;
+
+}
+header.photoHeader hr{
+    background: #020104;
+    height: 50px;
+    width: 100%;
+
+    position: absolute;
+    bottom: -25px;
+
+}
+
+header.photoHeader p{
+    position: absolute;
+    bottom: -12px;
+    left: 230px;
+    color: white;
+
+}
+
+header.photoHeader img{
+    height: 100px;
+    position: absolute;
+    bottom: -35px;
+    left: 100px;
+    background: white;
+    border-radius: 100px;
+
+}
+
+nav.main_nav{
+    background: #020104;
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    bottom: 0;
+}
+
+main .team {
+    margin: 150px;
+    margin-top: 0;
+    padding-bottom: 20px;
+}
+
+main .teamBlock {
+    margin-left: 75px;
+    margin-right: 75px;
+    background-color: #454546   ;
+    border-radius: 5px;
+    padding-left: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px; 
+}
+
+main .p {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 10px
+}
+
+nav.main_nav ul{
+    position: absolute;
+    right: 100px;
+    display: inline;
+    padding: 0;
+    margin: 0;
+    bottom: 4px;
+
+}
+
+nav.main_nav ul li{
+    padding: 0 10px ;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+nav.main_nav ul li a{
+    color: #F7F7F6;
+
+}
+
+nav.main_nav ul li a:hover{
+    color: #858585;
+    text-decoration: none;
+
+}
+
+body {
+    height: 1000px;
+    background: rgb(66, 96, 245);
+    background: linear-gradient(90deg, rgba(66, 96, 245, 1) 0%, rgba(230, 53, 148, 1) 20%, rgba(74, 94, 240, 1) 40%, rgba(230, 53, 148, 1) 61%, rgba(97, 88, 226, 1) 80%, rgba(230, 53, 148, 1) 100%);
+}
+
+
+main .sesonContent div img{
+    width: 200px;
+}
+
+main .sesonContent h2{
+    padding-bottom: 30px
+}
+
+
+main .sesonContent{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background: #BEBAB5;
+    padding-top: 10px; 
+    padding-bottom: 60px;
+    margin-bottom: 50px; 
+}
+
+
+main .aboutUs{
+    padding-top: 50px;
+    padding: 10px;
+    color: black;
+    background: white;
+}
+
+.ficha{
+    height: 50px;
+}
+
+footer{
+    background: #020104;
+    position: relative;
+    bottom: -32px;
+    height: 70px;
+    width: 100%;
+
+}
+
+
